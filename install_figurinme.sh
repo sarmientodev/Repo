@@ -7,7 +7,7 @@ wget https://github.com/arsham/figurine/releases/download/v1.3.0/figurine_linux_
 tar -xzf figurine_linux_amd64_v1.3.0.tar.gz
 cd deploy
 mv figurine /usr/local/bin/
-figurine -f "Nancyj.flf" "$USER@$(hostname)"
-echo 'figurine -f "Nancyj.flf" "$USER@$(hostname)"' >> ~/.bashrc
+figurine -f "Banner.flf" "$USER@$(hostname)"
+echo 'figurine -f "Banner.flf" "$USER@$(hostname)"' >> ~/.bashrc
 source ~/.bashrc
 
