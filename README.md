@@ -12,8 +12,10 @@ Este repositorio contiene un script de automatización en Bash para instalar y c
 
 Para instalar todo con un solo comando (vía cURL), ejecuta:
 
-##```bash
-## curl -sSL [https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/instalar_figurine.sh](https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/instalar_figurine.sh) | bash
+curl -sSL https://raw.githubusercontent.com/sarmientodev/Repo/main/install_figurinme.sh | bash
+
+o
+
+wget -qO- https://raw.githubusercontent.com/sarmientodev/Repo/main/install_figurinme.sh | bash
 
 
-https://github.com/sarmientodev/Repo/blob/main/install_figurinme.sh
