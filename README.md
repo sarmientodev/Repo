@@ -16,3 +16,4 @@ Para instalar todo con un solo comando (vía cURL), ejecuta:
 ## curl -sSL [https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/instalar_figurine.sh](https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/instalar_figurine.sh) | bash
 
 
+https://github.com/sarmientodev/Repo/blob/main/install_figurinme.sh
